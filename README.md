@@ -50,7 +50,7 @@ for seg in segments:
 
 ## Dash & plotly to show traffic data
 
-After you run the code, you can see visit the website: http://127.0.0.1:8050/
+**After you run the code**, you can see visit the website: http://127.0.0.1:8050/
 
 1. You can view the traffic conditions for different road segments each day. I used a **line chart** and a **bar chart** to display the data.
 
